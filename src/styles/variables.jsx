@@ -38,7 +38,26 @@ import {TbBrandBitbucket} from "react-icons/tb"
 import {MdOutlineCategory} from "react-icons/md"
 import {FaBuilding} from "react-icons/fa"
 import {TbReportAnalytics} from "react-icons/tb"
+////////////import mias agregando si causan problemas
+
+import { AiOutlineShoppingCart } from "react-icons/ai"
+///import { MdFactory } from "react-icons/md";
+import { FiScissors } from "react-icons/fi";
+import { FaBoxOpen } from "react-icons/fa";
+import { GiRolledCloth } from "react-icons/gi";
+
+
+
 export const v = {
+  iconoventas: AiOutlineShoppingCart,
+  iconoproduccion:FiScissors,
+  iconoAlmancenPrendas:FaBoxOpen,
+  iconoContabilidad:AiOutlineCalculator,
+  iconoMateriaPrima: GiRolledCloth,
+
+
+  ///////////////////////
+
   iconoreportes : TbReportAnalytics,
   iconoempresa:FaBuilding,
   iconocategorias:MdOutlineCategory,
