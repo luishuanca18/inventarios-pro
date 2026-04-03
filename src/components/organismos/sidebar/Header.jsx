@@ -1,7 +1,5 @@
 import styled from "styled-components";
-import { BtnCircular,UserAuth,ListaMenuDesplegable,DesplegableUser, useAuthStore } from "../../index";
-import { v } from "../styles/variables";
-
+import { BtnCircular,v,UserAuth,ListaMenuDesplegable,DesplegableUser, useAuthStore } from "../../index";
 
 export function Header({ stateConfig }) {
   const {signOut} = useAuthStore()
@@ -29,7 +27,7 @@ export function Header({ stateConfig }) {
           translatex="-50px"
           translatey="-12px"
         />
-        <span className="nombre">{user.email}</span>
+        <span className="nombre">{user?.email}</span>
         {stateConfig.state && (
         <ListaMenuDesplegable
           data={DesplegableUser}
