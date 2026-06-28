@@ -1,17 +1,17 @@
 import styled from "styled-components";
 import {Icono} from "../../index"
-export function Btnsave({ funcion, titulo, bgcolor, icono,url }) {
+export function Btnsave({ funcion, titulo, bgcolor, icono, url, type = "submit" }) {
   return (
-    <Container type="submit" $bgcolor={bgcolor}>
-   
-     <Icono>{icono}</Icono>
-     
-
-      <span className="btn" onClick={funcion}>
-        <a href={url} target="_blank">
-           {titulo}
-        </a>
-       
+    <Container type={type} $bgcolor={bgcolor} onClick={funcion}>
+      <Icono>{icono}</Icono>
+      <span className="btn">
+        {url ? (
+          <a href={url} target="_blank" rel="noreferrer" onClick={(e) => e.stopPropagation()}>
+             {titulo}
+          </a>
+        ) : (
+          <span className="btn__texto">{titulo}</span>
+        )}
       </span>
     </Container>
   );
@@ -38,6 +38,9 @@ const Container = styled.button`
     color: #000;
     a{
       text-decoration:none;
+      color: #000;
+    }
+    .btn__texto{
       color: #000;
     }
     cursor: pointer;

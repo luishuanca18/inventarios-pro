@@ -13,92 +13,82 @@ export const DesplegableUser = [
     tipo: "configuracion",
   },
   {
-    text: "Cerrar sesión",
+    text: "Cerrar sesion",
     icono: <v.iconoCerrarSesion />,
     tipo: "cerrarsesion",
   },
 ];
 
-//data SIDEBAR
+// data SIDEBAR
 export const LinksArray = [
   {
-    label: "Home",
+    label: "Inicio",
     icon: <AiOutlineHome />,
     to: "/",
   },
   {
-    label: "Kardex",
-    icon: <v.iconocategorias />,
-    to: "/kardex",
+    label: "Produccion",
+    icon: <v.iconoproduccion />,
+    to: "/produccion",
+  },
+  {
+    label: "Talleres",
+    icon: <v.iconotalleres />,
+    to: "/talleres",
+  },
+  {
+    label: "Mat. prima",
+    icon: <v.iconoMateriaPrima />,
+    to: "/almacen/materia-prima",
+  },
+  {
+    label: "Prod. terminados",
+    icon: <v.iconoAlmancenPrendas />,
+    to: "/almacen/producto-terminado",
+  },
+  {
+    label: "Tiendas",
+    icon: <v.iconotiendas />,
+    to: "/tiendas",
+  },
+  {
+    label: "Contabilidad",
+    icon: <v.iconoContabilidad />,
+    to: "/contabilidad",
+  },
+  {
+    label: "Rec. humanos",
+    icon: <v.iconoRecursosHumanos />,
+    to: "/recursos-humanos",
   },
   {
     label: "Reportes",
     icon: <v.iconoreportes />,
     to: "/reportes",
   },
-
-  {
-    label: "Ventas",
-    icon: <v.iconoventas />,
-    to: "/ventas",
-  },
-
-  {
-    label: "Producción",
-    icon: <v.iconoproduccion />,
-    to: "/produccion",
-  },
-
-  {
-    label: "Almacen de Prendas",
-    icon: <v.iconoAlmancenPrendas />,
-    to: "/almacenPrendas",
-  },
-
-  {
-    label: "Almacen de Materia Prima",
-    icon: <v.iconoMateriaPrima/>,
-    to: "/materiaPrima",
-  },
-
-  {
-    label: "Contabilidad",
-    icon: <v.iconoContabilidad/>,
-    to: "/contabilidad",
-  }
-
 ];
-
-
-
-
-
-
-
-
-
 
 export const SecondarylinksArray = [
   {
-    label: "Configuración",
+    label: "Configuracion",
     icon: <AiOutlineSetting />,
     to: "/configurar",
   },
 ];
 
-//temas
+// temas
 export const TemasData = [
   {
-    icono: "🌞",
+    icono: "light",
     descripcion: "light",
   },
   {
-    icono: "🌚",
+    icono: "dark",
     descripcion: "dark",
   },
 ];
 
-//data configuracion
+// data configuracion
 export const DataModulosConfiguracion = [
   {
     title: "Productos",
@@ -112,10 +102,9 @@ export const DataModulosConfiguracion = [
     icono: "https://i.ibb.co/5vgZ0fX/hombre.png",
     link: "/configurar/usuarios",
   },
-
   {
     title: "Tu empresa",
-    subtitle: "configura tus opciones básicas",
+    subtitle: "configura tus opciones basicas",
     icono: "https://i.ibb.co/x7mHPgm/administracion-de-empresas.png",
     link: "/configurar/empresa",
   },
@@ -132,29 +121,31 @@ export const DataModulosConfiguracion = [
     link: "/configurar/marca",
   },
 ];
-//tipo usuario
+
+// tipo usuario
 export const TipouserData = [
   {
     descripcion: "empleado",
-    icono: "🪖",
+    icono: "empleado",
   },
   {
     descripcion: "administrador",
-    icono: "👑",
+    icono: "administrador",
   },
 ];
-//tipodoc
+
+// tipodoc
 export const TipoDocData = [
   {
     descripcion: "Dni",
-    icono: "🪖",
+    icono: "dni",
   },
   {
     descripcion: "Libreta electoral",
-    icono: "👑",
+    icono: "libreta",
   },
   {
     descripcion: "Otros",
-    icono: "👑",
+    icono: "otros",
   },
 ];

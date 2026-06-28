@@ -1,26 +1,57 @@
 import { create } from "zustand";
-import { InsertarUsuarios } from "../index";
-import { supabase } from "../index";
+import { GuardarUsuarioSistema } from "../supabase/crudUsuarios.jsx";
+import { supabase } from "../supabase/supabase.config.jsx";
 
-export const useUsuariosStore = create((set, get) => ({
+export const useUsuariosStore = create(() => ({
   insertarUsuarioAdmin: async (p) => {
     const { data, error } = await supabase.auth.signUp({
       email: p.correo,
       password: p.pass,
     });
 
-    console.log("data del registro del user auth",data)
+    console.log("data del registro del user auth", data);
 
-    if(error )return; 
+    if (error) {
+      return {
+        ok: false,
+        message: error.message,
+      };
+    }
 
-    const datauser= await InsertarUsuarios ({
-      idauth:data.user.id,
-      fecharegistro:new Date(),
-      tipouser:"admin" 
+    if (!data?.user?.id) {
+      return {
+        ok: false,
+        message: "No se pudo crear la cuenta en autenticacion.",
+      };
+    }
 
+    const datauser = await GuardarUsuarioSistema({
+      idauth: data.user.id,
+      correo: p.correo,
+      nombre: p.nombre ?? "",
+      telefono: p.telefono ?? "",
+      area: p.area ?? "",
+      sede: p.sede ?? "",
+      fecharegistro: new Date().toISOString(),
+      tipouser: p.tipouser ?? "admin",
+      estado: "ACTIVO",
+      modulos: p.modulos ?? [],
+      submodulos: p.submodulos ?? [],
+    });
 
-    })
-    return datauser;
+    if (!datauser) {
+      return {
+        ok: false,
+        message:
+          "La cuenta se creo, pero no se pudo guardar en la tabla usuarios.",
+      };
+    }
 
+    return {
+      ok: true,
+      data: datauser,
+      session: data.session ?? null,
+      requiereConfirmacionCorreo: !data.session,
+    };
   },
 }));

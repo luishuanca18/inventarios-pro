@@ -1,13 +1,29 @@
 import styled from "styled-components";
-import { BtnCircular,v,UserAuth,ListaMenuDesplegable,DesplegableUser, useAuthStore } from "../../index";
+import { useNavigate } from "react-router-dom";
+import { BtnCircular,v,UserAuth,ListaMenuDesplegable,DesplegableUser, useAuthStore } from "../../../index";
+import { leerPerfilUsuario } from "../../../utils/perfilUsuario";
 
 export function Header({ stateConfig }) {
   const {signOut} = useAuthStore()
   const { user } = UserAuth();
+  const navigate = useNavigate();
+  const perfil = leerPerfilUsuario(user);
   const funcionXtipo = async (p) => {
-    if (p.tipo === "cerrarsesion") {
-     
+    if (p.tipo === "cerrarsesion") { 
+      stateConfig.setState?.();
       await signOut();
+      return;
+    }
+
+    if (p.tipo === "miperfil") {
+      stateConfig.setState?.();
+      navigate("/mi-perfil");
+      return;
+    }
+
+    if (p.tipo === "configuracion") {
+      stateConfig.setState?.();
+      navigate("/configurar");
     }
   };
   return (
@@ -27,12 +43,13 @@ export function Header({ stateConfig }) {
           translatex="-50px"
           translatey="-12px"
         />
-        <span className="nombre">{user?.email}</span>
+        <span className="nombre">{user.email}</span>
         {stateConfig.state && (
         <ListaMenuDesplegable
           data={DesplegableUser}
           top="62px"
           funcion={(p) => funcionXtipo(p)}
+          resumen={perfil}
         />
       )}
       </Datauser>

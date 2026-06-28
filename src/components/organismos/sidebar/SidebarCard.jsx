@@ -1,7 +1,23 @@
 import styled from "styled-components";
-import { v, Btnsave  } from "../../../index";
+import { useNavigate } from "react-router-dom";
+import { v, Btnsave, useAuthStore } from "../../../index";
+
 export function SidebarCard() {
-  
+  const { signOut } = useAuthStore();
+  const navigate = useNavigate();
+
+  const manejarCerrarSesion = async () => {
+    const confirmar = window.confirm("Seguro que deseas cerrar sesión?");
+    if (!confirmar) return;
+
+    try {
+      await signOut();
+      navigate("/");
+    } catch {
+      alert("No se pudo cerrar la sesion. Intenta nuevamente.");
+    }
+  };
+
   return (
     <Container>
       <span className="icon">{<v.iconoayuda />}</span>
@@ -10,18 +26,23 @@ export function SidebarCard() {
         <div className="circle2"></div>
         <h3>Cerrar sesión</h3>
         <div className="contentBtn">
-          <Btnsave titulo="Cerrar ..." bgcolor="#f8f2fd"  />
+          <Btnsave
+            titulo="Cerrar sesión"
+            bgcolor="#f8f2fd"
+            funcion={manejarCerrarSesion}
+            type="button"
+          />
         </div>
       </div>
     </Container>
   );
 }
+
 const Container = styled.div`
   width: 100%;
   padding: 1rem;
   text-align: center;
   position: relative;
-
 
   .icon {
     position: absolute;
@@ -32,6 +53,7 @@ const Container = styled.div`
     transform: translate(50%);
     z-index: 100;
   }
+
   .cardContent {
     position: relative;
     padding: 1rem;
@@ -46,18 +68,21 @@ const Container = styled.div`
       border-radius: 50%;
       opacity: 0.7;
     }
+
     .circle1 {
       height: 100px;
       width: 100px;
       top: -50px;
       left: -50px;
     }
+
     .circle2 {
       height: 130px;
       width: 130px;
       bottom: -80px;
       right: -70px;
     }
+
     h3 {
       font-size: 1.1rem;
       margin-top: 1rem;
@@ -65,9 +90,10 @@ const Container = styled.div`
       font-weight: 800;
       color: #000;
     }
+
     .contentBtn {
-      position:relative;
-      margin-left:-8px;
+      position: relative;
+      margin-left: -8px;
     }
   }
 `;

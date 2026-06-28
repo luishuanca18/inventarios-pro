@@ -6,19 +6,36 @@ import {
   ToggleTema,
 } from "../../../index";
 import { NavLink } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 import { v } from "../../../styles/variables";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { resolverIdentidadVisualPorRuta } from "../../../utils/identidadVisual";
+import { UserAuth } from "../../../context/AuthContext";
+import { leerPerfilUsuario } from "../../../utils/perfilUsuario";
+import { puedeAccederRuta } from "../../../utils/permisosSistema";
 
 export function MenuHambur() {
   const [click, setClick] = useState(false);
+  const { pathname } = useLocation();
+  const { user } = UserAuth();
+  const perfil = leerPerfilUsuario(user);
+  const esCuentaTaller = (perfil?.rol || "").toUpperCase() === "TALLER";
+  const linksVisibles = LinksArray.filter(
+    ({ to }) => (!esCuentaTaller || to !== "/") && puedeAccederRuta(to, perfil)
+  );
+  const secundariosVisibles = SecondarylinksArray.filter(({ to }) => puedeAccederRuta(to, perfil));
+
+  useEffect(() => {
+    setClick(false);
+  }, [pathname]);
+
   return (
     <Container>
       <NavBar>
         <section>
-          <HamburgerMenu onClick={() => setClick(!click)}>
+          <HamburgerMenu onClick={() => setClick((estadoAnterior) => !estadoAnterior)}>
             <label
               className={click ? "toggle active" : "toggle"}
-              
             >
               <div className="bars" id="bar1"></div>
               <div className="bars" id="bar2"></div>
@@ -27,31 +44,43 @@ export function MenuHambur() {
           </HamburgerMenu>
         </section>
         <Menu $click={click.toString()}>
-          {LinksArray.map(({ icon, label, to }) => (
+          {linksVisibles.map(({ icon, label, to }) => {
+            const identidad = resolverIdentidadVisualPorRuta(to);
+            return (
             <div
-              onClick={() => setClick(!click)}
+              onClick={() => setClick(false)}
               className="LinkContainer"
               key={label}
+              style={{
+                "--modulo-acento": identidad.acento,
+                "--modulo-fondo": identidad.fondo,
+              }}
             >
               <NavLink to={to} className="Links">
                 <div className="Linkicon">{icon}</div>
                 <span>{label}</span>
               </NavLink>
             </div>
-          ))}
+          )})}
           <Divider />
-          {SecondarylinksArray.map(({ icon, label, to }) => (
+          {secundariosVisibles.map(({ icon, label, to }) => {
+            const identidad = resolverIdentidadVisualPorRuta(to);
+            return (
             <div
               className="LinkContainer"
               key={label}
-              onClick={() => setClick(!click)}
+              onClick={() => setClick(false)}
+              style={{
+                "--modulo-acento": identidad.acento,
+                "--modulo-fondo": identidad.fondo,
+              }}
             >
               <NavLink to={to} className="Links">
                 <div className="Linkicon">{icon}</div>
                 <span>{label}</span>
               </NavLink>
             </div>
-          ))}
+          )})}
           <ToggleTema />
           <Divider />
         </Menu>
@@ -68,7 +97,7 @@ const NavBar = styled.nav`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 100vh;
+  height: 100dvh;
 `;
 const HamburgerMenu = styled.span`
   position: fixed;
@@ -136,35 +165,72 @@ const HamburgerMenu = styled.span`
 `;
 const Menu = styled.div`
   display: flex;
-  align-items: center;
+  align-items: stretch;
   list-style: none;
   z-index: 10;
   flex-direction: column;
   position: fixed;
-  justify-content: center;
+  justify-content: flex-start;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
   width: 100vw;
+  height: 100dvh;
+  max-height: 100dvh;
+  padding-top: calc(84px + env(safe-area-inset-top, 0px));
+  padding-bottom: calc(32px + env(safe-area-inset-bottom, 0px));
   background-color: ${(props) => `rgba(${props.theme.bodyRgba},0.85)`};
   backdrop-filter: blur(3px);
   transform: ${(props) =>
-    props.$click == "true" ? "trasnlateY(0)" : "translateY(1000%)"};
-  transition: all 0.3s ease;
+    props.$click == "true" ? "translate3d(0, 0, 0)" : "translate3d(-100%, 0, 0)"};
+  opacity: ${(props) => (props.$click == "true" ? "1" : "0")};
+  visibility: ${(props) => (props.$click == "true" ? "visible" : "hidden")};
+  pointer-events: ${(props) => (props.$click == "true" ? "auto" : "none")};
+  transition: transform 0.28s ease, opacity 0.22s ease, visibility 0.22s ease;
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-y;
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: ${(props)=>props.theme.colorScroll};
+    border-radius: 10px;
+  }
     .LinkContainer{
       &:hover{
-        background: ${(props)=>props.theme.bgAlpha};
+        background: var(--modulo-fondo, ${(props)=>props.theme.bgAlpha});
 
       }
 
       .Links{
-        width:100vw;
+        width:100%;
         display: flex;
         align-items:center;
         text-decoration:none;
         color: ${(props)=> props.theme.text};
-        height: 80px;
+        min-height: 64px;
+        padding-right: 18px;
+        position: relative;
+
+        &.active {
+          color: var(--modulo-acento, ${(props)=> props.theme.bg5});
+          background: var(--modulo-fondo, transparent);
+        }
+
+        &.active::before {
+          content: "";
+          position: absolute;
+          left: 0;
+          top: 0;
+          bottom: 0;
+          width: 4px;
+          border-radius: 10px;
+          background: var(--modulo-acento, ${(props)=> props.theme.bg5});
+        }
         .Linkicon{
           padding: ${v.smSpacing} ${v.mdSpacing};
           display:flex;
@@ -173,7 +239,11 @@ const Menu = styled.div`
           }
 
 
-        }  
+        }
+
+        span {
+          line-height: 1.2;
+        }
 
       }
     }

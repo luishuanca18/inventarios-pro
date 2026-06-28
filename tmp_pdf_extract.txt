@@ -1,0 +1,764 @@
+PAGES: 730
+
+--- PAGE 9 ---
+CONTENIDO /H17033 VII
+Costeo variable versus costeo absorbente: Utilidad 
+en operación y estados de resultados  303
+Comparación de un estado de resultados 
+para un año  303
+Comparación de estados de resultados 
+para tres años  305
+El costeo variable y el efecto de las ventas y de la 
+producción sobre la utilidad en operación  308
+Costeo absorbente y medición del desempeño  309
+Acumulación indeseable de los inventarios  310
+Propuestas para la revisión de la evaluación del 
+desempeño  311
+Comparación de los métodos de costeo del inventario  312
+Costeo específico  312
+Una comparación de los métodos de costeo 
+alternativos  313
+Conceptos de la capacidad del nivel del denominador 
+y análisis del costo fijo de la capacidad  314
+Costeo absorbente y conceptos alternativos de la capacidad 
+del nivel del denominador  314
+Efecto sobre la tasa presupuestada del costo fijo de 
+manufactura  315
+Elección de un nivel de capacidad  316
+Costeo del producto y administración de la capacidad  316
+Decisiones de fijación de precio y espiral descendente de la 
+demanda  317
+Evaluación del desempeño  318
+Conceptos en acción: La “espiral de la muerte” y el final del 
+servicio telefónico a base de líneas terrestre
+Información externa  320
+Requisitos fiscales  322
+Planeación y control de los costos de la capacidad  323
+Dificultades al pronosticar el concepto elegido para el nivel 
+del denominador  323
+Dificultades al pronosticar costos fijos de 
+manufactura  323
+Costos que no son de manufactura  324
+Costeo basado en actividades  324
+Problema para autoestudio 324 | Puntos de decisión 326
+APÉNDICE: Puntos de equilibrio en el costeo variable y en el 
+costeo absorbente  327
+Términos contables 328 | Material para tareas 328 | Preguntas 
+328 | Ejercicios 329 | Problemas 334 | Problema de aprendizaje 
+colaborativo 339
+ 10 Determinación de la manera en que se 
+comportan los costos  340
+Los contadores administrativos de Cisco aceptan oportunidades 
+y el mejoramiento de la sustentabilidad  340
+Supuestos básicos y ejemplos de las funciones de costos  341
+Supuestos básicos  342
+Funciones lineales de costos  342
+Repaso de la clasificación de los costos  343
+Identificación de los generadores del costo  344
+El criterio de causa y efecto  345
+Generadores del costo y el proceso de la toma de 
+decisiones  345
+Métodos de estimación de costos  346
+Método de ingeniería industrial  346
+Método de conferencias  346
+Método de análisis de cuentas  347
+Método de análisis cuantitativo  347
+Pasos en la estimación de una función de costos usando el 
+análisis cuantitativo  348
+Método punto alto–punto bajo  350
+Método del análisis de regresión  352
+Evaluación de los generadores del costo en la función de 
+costos estimados  353
+Forma de elegir entre generadores del costo  354
+Generadores del costo y costeo basado en actividades  356
+Conceptos en acción: Costeo basado en actividades: 
+identificación de los generadores del costo 
+y de ingresos
+  356
+Funciones de costos no lineales  357
+Curvas de aprendizaje  358
+Modelo de aprendizaje del tiempo promedio 
+acumulativo  359
+Modelo de aprendizaje de unidad de tiempo creciente  360
+Incorporación de los efectos de la curva de aprendizaje 
+en los precios y en los estándares  361
+Recolección de datos y problemas de ajuste  362
+Problema para autoestudio 364 | Puntos de decisión 366
+APÉNDICE: Análisis de regresión  367
+Términos contables 375 | Material para tareas 375 | Preguntas 
+375 | Ejercicios 375 | Problemas 382 | Problema de aprendizaje 
+colaborativo 388
+ 11 Toma de decisiones e información 
+relevante  390
+Costos relevantes, JetBlue y Twitter  390
+La información y el proceso de la toma de decisiones  391
+El concepto de relevancia  392
+Costos relevantes e ingresos relevantes  393
+Información cualitativa y cuantitativa relevante  394
+Una ilustración de la relevancia: Elección de los niveles 
+de producción  394
+Órdenes especiales  394
+Problemas relevantes en el análisis de costos 
+relevantes  397
+Decisiones de abastecimiento interno versus abastecimiento 
+externo (subcontratación) y decisiones de fabricar versus 
+comprar  397
+Subcontrataciones e instalaciones inactivas  397
+Factores estratégicos y cualitativos  399
+Conceptos en acción: Pringles Prints y la subcontratación 
+de la innovación  400
+Subcontratación a nivel internacional  400
+Costos de oportunidad y subcontratación  401
+El enfoque del costo de oportunidad  402
+Costos de mantenimiento del inventario  403
+Decisiones de mezcla de productos con restricciones 
+de capacidad  405
+Rentabilidad de los clientes, costeo basado en actividades 
+y costos relevantes  406
+Análisis de ingresos relevantes y de costos relevantes 
+resultante por la eliminación de un cliente  408
+A01_HORN9174_14_SE_FM.indd   viiA01_HORN9174_14_SE_FM.indd   vii 12/5/11   5:46 PM12/5/11   5:46 PM
+
+--- PAGE 10 ---
+VIII /H17033 CONTENIDO
+Análisis de los ingresos relevantes y de los costos relevantes 
+por la incorporación de un cliente  409
+Análisis de ingresos relevantes y costos relevantes 
+por el cierre o la apertura de oficinas regionales o 
+segmentos  409
+Irrelevancia de los costos pasados y de las decisiones del 
+reemplazo de equipos  410
+Decisiones y evaluación del desempeño  412
+Problema para autoestudio 413 | Puntos de decisión 415
+APÉNDICE: Programación lineal  416
+Términos contables 418 | Material para tareas 419 | Preguntas 
+419 | Ejercicios 419 | Problemas 424 | Problema de aprendizaje 
+colaborativo 431
+ 12 Decisiones de fijación de precios 
+y administración de costos  432
+La fijación de precio fijada como meta y el automóvil de $2,500 
+de Tata Motors  432
+Principales influencias en las decisiones de fijación de 
+precios  433
+Clientes, competidores y costos  433
+El costeo y la fijación de precios en el corto plazo  434
+Costos relevantes para las decisiones de fijación de precios 
+a corto plazo  435
+Factores estratégicos y de otro tipo en la fijación de precios 
+a corto plazo  435
+Efecto del horizonte de tiempo sobre las decisiones de 
+fijación de precios a corto plazo  435
+Costeo y fijación de precios a largo plazo  436
+Cálculo de los costos de los productos para las decisiones 
+de fijación de precios a largo plazo  436
+Enfoques alternativos para la fijación de precios a largo 
+plazo  437
+Costo meta o fijación de precios meta  439
+Comprensión del valor que perciben los clientes  439
+Realización de un análisis de los competidores  439
+Implementación de la fijación de precios meta o del costo 
+meta  440
+Conceptos en acción: Condición extrema en la fijación 
+de precios meta y en la administración de 
+costos de 
+IKEA  441
+Ingeniería del valor, incurrimiento en los costos y costos 
+comprometidos  442
+Análisis de la cadena de valor y equipos 
+interdisciplinarios  442
+Forma de lograr el costo meta por unidad para Provalue  443
+Fijación de precios al costo más un margen de utilidad  445
+Enfoque de costo más margen de utilidad y tasa de 
+rendimiento sobre la inversión fijada como meta  445
+Métodos alternativos al costo más margen de utilidad  446
+Fijación de precios basada en el costo 
+más margen de utilidad y fijación de precios meta  447
+Preparación de presupuestos y costeo del ciclo de vida del 
+producto  447
+Elaboración del presupuesto del ciclo de vida y decisiones 
+de fijación de precios  448
+Costeo del ciclo de vida del cliente  449
+Consideraciones adicionales para las decisiones de fijación de 
+precios  450
+Discriminación del precio  450
+Fijación de precios a nivel máximo  450
+Consideraciones internacionales  451
+Leyes antimonopolio  451
+Problema para autoestudio 452 | Puntos de decisión 454 | 
+Términos contables 455 | Material para tareas 455 | 
+Preguntas 455 | Ejercicios 456 | Problemas 460 | Problema 
+de aprendizaje colaborativo 465
+ 13 Estrategia, tablero de control balanceado 
+(balanced scorecard) y análisis de la 
+rentabilidad estratégica  466
+El tablero de control balanceado ayuda a Infosys a 
+transformarse en una firma de consultoría líder  466
+¿Qué es la estrategia?  467
+Formación de capacidades internas: Mejoramiento 
+de la calidad y reingeniería en Chipset  469
+Implementación de la estrategia y el tablero de control 
+balanceado  470
+El tablero de control balanceado  470
+Mapas estratégicos y el tablero 
+de control balanceado  471
+Implementación de un tablero 
+de control balanceado  474
+Alineación del tablero de control balanceado 
+con la estrategia  475
+Características de un buen tablero de control 
+balanceado  475
+Fallas en la implementación de un tablero de control 
+balanceado  476
+Evaluación del éxito de la estrategia y de su 
+implementación  477
+Análisis estratégico de la utilidad en operación  478
+Componente de crecimiento de un cambio en la utilidad 
+en operación  479
+Componente de recuperación del precio proveniente 
+del cambio en la utilidad en operación  481
+Componente de productividad proveniente del cambio 
+en la utilidad en operación  482
+Un análisis más profundo de los componentes del 
+crecimiento, de la recuperación del precio y de la 
+productividad  483
+Conceptos en acción: La elección del crecimiento versus 
+la rentabilidad en Facebook
+Aplicación a la estrategia del marco de referencia de cinco 
+pasos en la toma de decisiones  485
+Reducción de operaciones y administración de la capacidad 
+de procesamiento  486
+Costos de ingeniería y costos discrecionales  486
+Identificación de la capacidad no usada para los costos 
+indirectos discrecionales y de ingeniería  487
+Administración de la capacidad no usada  487
+Problema para autoestudio 488 | Puntos de decisión 492
+APÉNDICE: Medición de la productividad  492
+Términos contables 495 | Material para tareas 495 | Preguntas 
+495 | Ejercicios 495 | Problemas 498 | Problema de aprendizaje 
+colaborativo 501
+A01_HORN9174_14_SE_FM.indd   viiiA01_HORN9174_14_SE_FM.indd   viii 12/5/11   5:46 PM12/5/11   5:46 PM
+
+--- PAGE 11 ---
+CONTENIDO /H17033 IX
+ 14 Aplicación de costos, análisis de rentabilidad 
+del cliente y análisis de las variaciones en 
+ventas  502
+Cuidado de la tienda: Análisis de los clientes, Best Buy decide 
+que no todos son bienvenidos  502
+Propósitos de la aplicación de los costos  503
+Criterios para orientar las decisiones de aplicación 
+de costos  504
+Decisiones de aplicación de costos  506
+Asignación de los costos corporativos a las divisiones 
+y los productos  508
+Implementación de las asignaciones de costos 
+corporativos  509
+Análisis de la rentabilidad de los clientes  510
+Análisis de los ingresos provenientes de los clientes  511
+Análisis del costo de los clientes  511
+Costos a nivel del cliente  512
+Perfiles de rentabilidad del cliente  514
+Presentación del análisis de rentabilidad  515
+Uso del proceso de toma de decisiones de cinco pasos para 
+administrar la rentabilidad de los clientes  517
+Conceptos en acción: Las aplicaciones del iPhone desafían 
+a la rentabilidad de los clientes en AT&T  518
+Variaciones en ventas  518
+Variación en el presupuesto estático  520
+Variación en el presupuesto flexible y variación en el 
+volumen de ventas  520
+Variación en la mezcla de ventas  521
+Variación en la cantidad de ventas  521
+Problema para autoestudio 523 | Puntos de decisión 525
+APÉNDICE: Variaciones en mezclas y rendimientos para 
+insumos sustituibles  525
+Términos contables 528 | Material para tareas 529 | Preguntas 
+529 | Ejercicios 529 | Problemas 534 | Problema de aprendizaje 
+colaborativo 541
+ 15 Aplicación de los costos del departamento 
+de apoyo, costos comunes e ingresos  542
+La aplicación de costos y el futuro de la infraestructura 
+de la energía  proveniente de la “red de distribución 
+inteligente de energía eléctrica  542
+Aplicación de los costos de los departamentos de apoyo 
+con los métodos de tasa única y de tasa doble  543
+Método de tasa única y método de tasa doble  544
+Aplicación basada en la demanda (o el consumo) de los 
+servicios de cómputo  544
+Aplicación basada en la oferta de capacidad  545
+Método de tasa única versus método de tasa doble  546
+Costos presupuestados versus costos reales y elección de la 
+base de aplicación  547
+Tasas presupuestadas versus tasas reales  547
+Consumo presupuestado versus consumo real  548
+Aplicación de los costos en diversos departamentos 
+de apoyo  550
+Método directo  550
+Método escalonado  551
+Método recíproco  553
+Panorama general de los métodos  556
+Aplicación de costos comunes  557
+Método individual de aplicación de costos  557
+Método incremental de aplicación de costos  557
+Aplicaciones de costos y controversia en contratos  558
+Celebración de contratos con el gobierno de Estados 
+Unidos  559
+Equidad en la fijación de precios  559
+Conceptos en acción: Controversias en contratos sobre 
+costos reembolsables para el Departamento 
+de Defensa de Estados Unidos
+  560
+Productos empaquetados y métodos de aplicación 
+de los ingresos  560
+Empaquetamiento y aplicación de ingresos  560
+Método individual de aplicación de ingresos  561
+Método incremental de aplicación de ingresos  562
+Problema para autoestudio 564 | Puntos de decisión 566 | 
+Términos contables 566 | Material para tareas 567 | 
+Preguntas 567 | Ejercicios 567 | Problemas 571 | Problema 
+de aprendizaje colaborativo 575
+ 16 Aplicaciones de costos: Productos conjuntos 
+y subproductos  576
+La aplicación de costos conjuntos y la producción 
+del combustible de etanol  576
+Fundamentos de los costos conjuntos  577
+Aplicación de costos conjuntos  579
+Enfoques para la aplicación de costos conjuntos  579
+Método del valor de ventas en el punto de separación  580
+Método de unidades físicas  582
+Método del valor neto de realización  583
+Método del porcentaje constante de la utilidad bruta 
+del 
+vnr   584
+Elección de un método de aplicación  586
+Ausencia de aplicación de los costos conjuntos  587
+Irrelevancia de los costos conjuntos en la toma de 
+decisiones  587
+Decisiones de vender o de dar mayor procesamiento  587
+Aplicación de costos conjuntos y evaluación del 
+desempeño  588
+Decisiones de fijación de precio  589
+Contabilización de subproductos  589
+Conceptos en acción: El costeo de los subproductos 
+mantiene el Chili de Wendy’s a un nivel rentable… 
+y en el menú
+  590
+Método de producción: Los subproductos se reconocen en 
+el momento cuando se termina la producción  591
+Método de ventas: reconocimiento de los subproductos en 
+el momento de la venta  592
+Problema para autoestudio 592 | Puntos de decisión 595 | 
+Términos contables 596 | Material para tareas 596 | Preguntas 
+596 | Ejercicios 595 | Problemas 601 | Problema de aprendizaje 
+colaborativo 605
+ 17 Costeo por procesos  606
+ExxonMobil y las diferencias contables en la búsqueda 
+del petróleo  606
+Ilustración del costeo por procesos  607
+A01_HORN9174_14_SE_FM.indd   ixA01_HORN9174_14_SE_FM.indd   ix 12/5/11   5:46 PM12/5/11   5:46 PM
+
+--- PAGE 12 ---
+X /H17033 CONTENIDO
+Caso 1: Costeo por procesos sin inventario inicial o final 
+de productos en proceso  608
+Caso 2: Costeo por procesos con un inventario inicial de 
+productos en proceso de cero y un poco de inventario 
+final de productos en proceso  609
+Unidades físicas y unidades equivalentes (pasos 1 y 2)  610
+Cálculo de los costos del producto (pasos 3, 4 y 5)  611
+Asientos de diario  612
+Caso 3: Costeo por procesos con un poco de inventario 
+inicial y un poco de inventario final de productos en 
+proceso  613
+Método del promedio ponderado  614
+Método de primeras entradas primeras salidas  617
+Comparación del método del promedio ponderado y del 
+método de 
+peps  620
+Costos anteriores en el costeo por procesos  621
+Costos anteriores y el método del promedio 
+ponderado  622
+Costos anteriores y el método de peps  624
+Puntos a recordar acerca de los costos anteriores  625
+Sistemas de costeo híbridos  626
+Panorama general de los sistemas de costeo de 
+operaciones  626
+Caso de un sistema de costeo por operaciones  627
+Conceptos en acción: Costeo híbrido para calzado deportivo 
+personalizados en Adidas  627
+Asientos de diario  629
+Problema para autoestudio 630 | Puntos de decisión 631 | 
+APÉNDICE: Método de costeo estándar para el costeo por 
+procesos  632
+Términos contables 636 | Material para tareas 636 | Preguntas 
+636 | Ejercicios 636 | Problemas 640 | Problema de aprendizaje 
+colaborativo 643
+ 18 Unidades defectuosas, reprocesamiento 
+y material de desecho  644
+Los reprocesamientos demoran tres años el Boeing 
+Dreamliner  644
+Definición de unidades defectuosas, reprocesamiento 
+y materiales de desecho  645
+Dos tipos de unidades defectuosas  646
+Unidades defectuosas normales  646
+Unidades defectuosas anormales  646
+Unidades defectuosas en el costeo por procesos con el método 
+del promedio ponderado y el método de peps  647
+Conteo de todas las unidades defectuosas  647
+Procedimiento de cinco pasos para el costeo por procesos 
+con unidades defectuosas  648
+Método del promedio ponderado y unidades 
+defectuosas  649
+Método de 
+peps y unidades defectuosas  652
+Asientos de diario  652
+Puntos de inspección y aplicación de los costos por unidades 
+defectuosas normales  652
+Costeo por órdenes de trabajo y unidades defectuosas  655
+El costeo por órdenes de trabajo y el reprocesamiento  656
+Contabilidad de los materiales de desecho  657
+Reconocimiento de los materiales de desecho en el 
+momento de su venta  657
+Reconocimiento de los materiales de desecho en el 
+momento de su producción  659
+Administración del desperdicio y de los costos 
+ambientales en KB Home
+Puntos de decisión 660 | Problema para autoestudio 660
+APÉNDICE: Variaciones en mezclas y rendimientos para 
+insumos sustituibles  661
+Términos contables 663 | Material para tareas 663 | Preguntas 
+663 | Ejercicios 663 | Problemas 666 | Problema de aprendizaje 
+colaborativo 669
+Apéndice A: Notas acerca del interés compuesto y de las 
+tablas de interés A-1
+Apéndice B: Ejercicio integrador. Sistema de acumulación de 
+costos en la producción por órdenes A-9
+Apéndice C: Ejercicio integrador. Sistema de acumulación de 
+costos en la producción por procesos A-19
+Glosario G-1
+Índice analítico I-1
+A01_HORN9174_14_SE_FM.indd   xA01_HORN9174_14_SE_FM.indd   x 12/5/11   5:46 PM12/5/11   5:46 PM
+
+--- PAGE 13 ---
+Charles T. Horngren es Profesor Emérito de Contabilidad con la cátedra Edmund W. Littlefield en 
+la Universidad de Stanford. Como graduado en la Universidad Marquette, recibió su maestría de la 
+Universidad de Harvard y su doctorado de la Universidad de Chicago. También ha obtenido docto-
+rados honorarios de las Universidades Marquette y DePaul. 
+Como contador público certificado, Horngren colaboró con el Accounting Principles Board 
+durante seis años, con el Financial Accounting Standards Board Advisory Council durante cinco 
+años y con el Council of the American Institute of Certified Public Accountants durante tres años. 
+Por un periodo de seis años, se desempeñó como directivo de la Financial Accounting Foundation, 
+que supervisa al Financial Accounting Standards Board y al Government Accounting Standards 
+Board. Horngren es miembro del Salón de la Fama de la Contabilidad. 
+Como miembro de la American Accounting Association, Horngren ha sido su presidente y su 
+director de investigación. Ha recibido su primer Reconocimiento como Profesor de Contabilidad 
+Sobresaliente. La California Certified Public Accountants Foundation concedió a Horngren su 
+Reconocimiento de Excelencia en la Cátedra y su Reconocimiento de Profesor Distinguido. Fue la 
+primera persona en recibir ambos reconocimientos. 
+El American Institute of Certified Public Accountants hizo la presentación del primer 
+Reconocimiento como Profesor Sobresaliente que fue otorgado a  Horngren. 
+Beta Alpha Psi, la fraternidad nacional de la profesión contable, concedió a Horngren el nom-
+bramiento de Contador del Año en Educación. 
+El Profesor Horngren también es miembro del Institute of Management Accountants, de quien 
+ha recibido el Reconocimiento al Servicio Distinguido. También fue miembro del Institutes’ Board 
+of Regents, el cual se encarga de administrar los exámenes para contadores administrativos certifi-
+cados. 
+Horngren es autor de otras obras de contabilidad publicadas por Pearson Educación: 
+Introduction to Management Accounting, 15a. ed. (2011, con Sundem y Stratton); Introduction 
+to Financial Accounting , 10a. ed. (2011, con Sundem y Elliott); Accounting, 8a. ed. (2010, con 
+Harrison y Bamber) y Financial Accounting, 8a. ed. (2010, con Harrison). 
+Horngren es consultor editorial para las publicaciones contables de la serie Charles T. 
+Horngren. 
+Srikant M. Datar es Profesor de Administración de Empresas con la cátedra Arthur Lowes Dickinson 
+y Decano Asociado Senior de la Universidad de Harvard. Como graduado con distinción honora-
+ria de la Universidad de Bombay, recibió medallas de oro en su graduación del Indian Institute of 
+Management, Ahmedabad y del Institute of Cost and Works Accountants de India. Además de ser 
+contador público certificado, tiene dos maestrías y un doctorado de la Universidad de Stanford.
+Citado por sus estudiantes como un profesor muy dedicado e innovador, Datar recibió el 
+Reconocimiento George Leland Bach por la excelencia en el aula en la Universidad de Carnegie 
+Mellon y el Reconocimiento a la Enseñanza Distinguida en la Universidad de Stanford.
+Datar ha publicado sus investigaciones en periódicos líderes de contabilidad, marketing y 
+administración de operaciones, incluyendo The Accounting Review, Contemporary Accounting 
+Research, Journal of Accounting, Auditing and Finance, Journal of Accounting and Economics, 
+Journal of Accounting Research y Management Science. También ha colaborado en el consejo edi-
+torial de varios periódicos, y ha presentado sus investigaciones a ejecutivos corporativos y audien-
+cias académicas en Norteamérica, Sudamérica, Asia, África, Australia y Europa.
+Datar es miembro del consejo de administración de Novartis A.G., ICF International, KPIT 
+Cummins Infosystems Ltd., Stryker Corporation y Harvard Business Publishing, y ha trabajado 
+con muchas organizaciones, incluyendo Apple Computer, AT&T, Boeing, Du Pont, Ford, General 
+Motors, HSBC, Hewlett-Packard, Morgan Stanley, PepsiCo, TRW, Visa y the World Bank. Es 
+miembro de la American Accounting Association y del Institute of Management Accountants. 
+XI 
+Acerca de los autores
+A01_HORN9174_14_SE_FM.indd   xiA01_HORN9174_14_SE_FM.indd   xi 12/5/11   5:46 PM12/5/11   5:46 PM
+
+--- PAGE 14 ---
+XII /H17033 ACERCA DE LOS AUTORES
+Madhav V. Rajan es Profesor de Contabilidad con la cátedra Gregor G. Peterson y Decano Asociado 
+Senior en la Universidad de Stanford. Desde 2002 hasta 2010, fue el coordinador del área de conta-
+bilidad en la Graduate School of Business Stanford. 
+Rajan recibió una licencia en comercio a nivel de la Universidad de Madras, India, y el grado de 
+maestro en contabilidad, su maestría y su doctorado de la Escuela de Graduados de Administración 
+Industrial de la Universidad de Carnegie Mellon. En 1990, su disertación ganó el premio Alexander 
+Henderson Award por la Excelencia en Teoría Económica.
+La principal área de investigación de interés para Rajan es el análisis de la contabilidad admi-
+nistrativa con base en la economía, especialmente en lo que se refiere a la aplicación de los costos 
+del control interno, el presupuesto de capital, la administración de la calidad, la cadena de sumi-
+nistro y los sistemas de desempeño en las empresas. Ha publicado sus investigaciones en periódicos 
+líderes de contabilidad y de administración de operaciones, como The Accounting Review, Review 
+of Financial Studies, Journal of Accounting Research y Management Science. En 2004, recibió el 
+reconocimiento de Aportación Notable a la Literatura de la Contabilidad Administrativa. 
+Rajan se ha desempeñado como editor departamental de contabilidad en Management Science 
+y también ha sido editor asociado para las áreas de contabilidad y de operaciones. De 2002 a 2008, 
+Rajan se desempeñó como editor de The Accounting Review. Actualmente también es editor aso-
+ciado de Journal of Accounting, Auditing and Finance. Rajan es miembro de la sección de contabili-
+dad administrativa de la American Accounting Association y durante dos ocasiones ha sido ponente 
+en las Conferencias de Contabilidad Administrativa de la AAA. 
+Rajan ha ganado varios reconocimientos de enseñanza en Wharton y Stanford, incluyendo 
+el reconocimiento David W. Hauck, el premio más alto para la enseñanza a nivel licenciatura en 
+Wharton. Rajan ha impartido sus cátedras en una variedad de programas ejecutivos de educación, 
+incluyendo el Stanford Executive Program, el National Football League Program for Managers y el 
+National Basketball Players Association Program, así como programas personalizados para empre-
+sas como nVidia, Genentech y Google.
+A01_HORN9174_14_SE_FM.indd   xiiA01_HORN9174_14_SE_FM.indd   xii 12/5/11   5:46 PM12/5/11   5:46 PM
+
+--- PAGE 15 ---
+El estudio de la contabilidad de costos es una de las mejores inversiones de negocios que 
+puede realizar un estudiante. ¿Por qué? Porque el éxito en cualquier organización —desde la pequeña 
+tienda de la esquina hasta la mayor corporación multinacional— requiere el uso de los conceptos y las 
+prácticas de la contabilidad de costos, la cual proporciona datos clave a los gerentes para la planea-
+ción y el control, así como para el costeo de productos, servicios e incluso clientes. Este libro se enfoca 
+en la manera en que la contabilidad de costos ayuda a los gerentes a tomar mejores decisiones, ya que 
+cada vez con mayor frecuencia los contadores de costos se están volviendo miembros integrales de 
+los equipos de toma de decisiones de sus compañías. Para enfatizar esta prominencia en la toma 
+de decisiones, utilizamos el tema de “diferentes costos para distintos propósitos”, a lo largo de todo 
+este libro. Al centrar la atención en los conceptos básicos, en los análisis, y en los usos y los procedi-
+mientos, en vez de observar tan solo 
+los procedimientos, reconocemos la contabilidad de costos como 
+una herramienta administrativa para la estrategia y la implementación en los negocios.
+También preparamos a los estudiantes para las recompensas y los desafíos que habrán de 
+enfrentar en el mundo profesional de la contabilidad de costos del presente y del futuro. Por ejem-
+plo, destacamos tanto el desarrollo de las herramientas analíticas como Excel para apalancar la 
+tecnología de la información disponible, como los valores y los comportamientos que hacen que los 
+contadores de costos sean efectivos en el ámbito laboral.
+Características distintivas 
+de Contabilidad de costos
+/H17033 Énfasis amplio en las aplicaciones administrativas de la información de costos  
+/H17033 Claridad y facilidad de comprensión del texto  
+/H17033 Excelente equilibrio para integrar los temas modernos con la cobertura tradicional  
+/H17033 Énfasis sobre los aspectos del comportamiento humano
+/H17033 Uso amplio de ejemplos del mundo real  
+/H17033 Capacidad para realizar el estudio de los capítulos en diferentes secuencias  
+/H17033 Excelentes cantidad, calidad y variedad en los materiales para tarea
+Los 13 primeros capítulos brindan la esencia de un curso para un periodo académico (trimestre o 
+semestre). Existe una amplia cantidad de texto y de material para tareas en los 23 capítulos (los 
+últimos cinco capítulos están disponibles en el sitio Web del libro) para un curso de dos periodos. 
+Esta obra se puede estudiar inmediatamente después de que el estudiante haya llevado un curso 
+introductorio en contabilidad financiera. De manera alternativa, este libro puede enriquecer un 
+curso introductorio en contabilidad administrativa.
+El hecho de decidir sobre la secuencia de los capítulos de un libro de texto es todo un desafío. 
+Ya que cada profesor tiene una forma única de organizar su propio curso, utilizamos una organi-
+zación modular y flexible que permite la personalización de un curso. Esta organización facilita 
+diversos enfoques para la enseñanza y el aprendizaje.
+Como ejemplo de la flexibilidad del libro, considere nuestro tratamiento acerca del costeo por 
+procesos, el cual se describe en los capítulos 17 y 18. Los profesores que estén interesados en cubrir 
+totalmente la perspectiva de un estudiante en relación con los sistemas de costeo se pueden despla-
+zar directamente del costeo por órdenes de trabajo que se describe en el capítulo 4 al capítulo 17, 
+sin que haya interrupción del flujo del material. Otros instructores quizá deseen que sus estudiantes 
+profundicen en el costeo basado en actividades, la elaboración de presupuestos y otros temas más 
+orientados hacia las decisiones desde el inicio del curso. Estos profesores quizá prefieran posponer 
+el estudio del tema de costeo por procesos.
+Lo nuevo en esta edición
+Mayor énfasis en la estrategia
+Esta edición profundiza el énfasis del libro sobre el desarrollo y la ejecución de las estrategias. Varios 
+capítulos incluyen el tema de la estrategia que se introdujo en el capítulo 1. El capítulo 13 presenta 
+XIII 
+Prefacio
+A02_HORN9174_14_SE_PRE.indd   xiiiA02_HORN9174_14_SE_PRE.indd   xiii 12/5/11   5:46 PM12/5/11   5:46 PM
+
+--- PAGE 16 ---
+XIV /H17033 PREFACIO
+una exposición más amplia de los mapas de la estrategia, como una herramienta útil para la imple-
+mentación del tablero de control balanceado (balanced scorecard), y realiza una presentación simplifi-
+cada de la forma en la cual los estados de resultados de las compañías se analizan desde la perspectiva 
+estratégica de la diferenciación del producto o del liderazgo en costos. También exponemos las consi-
+deraciones de la estrategia en el diseño de los sistemas de costeo basados en actividades del capítulo 5, 
+la preparación de los presupuestos en el capítulo 6, y la toma de decisiones en los capítulos 11 y 12.
+Mayor consideración de los aspectos globales
+Las empresas se están volviendo más globales progresivamente. Incluso las organizaciones pequeñas 
+y medianas en los sectores de manufactura, comercio y servicios se ven obligadas a enfrentar los 
+efectos de la globalización. Las consideraciones globales aparecen en muchos capítulos. Por ejem-
+plo, el capítulo 11 expone los beneficios y los desafíos que surgen cuando se subcontratan produc-
+tos o servicios fuera de Estados Unidos. El capítulo 22 (disponible en el sitio Web del libro) examina 
+la importancia de la fijación de precios de transferencia al minimizar la carga impositiva que tienen 
+que cumplir las compañías multinacionales. Varios ejemplos nuevos de las aplicaciones de la con-
+tabilidad administrativa en diversas compañías se han extraído de los ambientes internacionales.
+Mayor enfoque en el sector de servicios
+Para mantenerse al nivel de los cambios en la economía de Estados Unidos y de todo el mundo, 
+esta edición hace un mayor uso de los ejemplos del sector de servicios. Por ejemplo, el capítulo 2 
+expone los conceptos en torno a la medición de los costos para el desarrollo de un software, en 
+vez de basarse en un ambiente de manufactura. El capítulo 6 incluye varios ejemplos del uso de 
+los presupuestos y de la fijación de metas en las compañías de servicios. Varios cuadros de conceptos 
+en acción se concentran en el sector de servicios como el costeo basado en actividades en Charles 
+Schwab (capítulo 5) y la administración de los cuellos de botella para datos inalámbricos (capítulo 
+19 [disponible en el sitio Web del libro]).
+Nuevos ejemplos de vanguardia
+La velocidad del cambio en las organizaciones sigue siendo rápida. La 14a. edición de Contabilidad 
+de Costos refleja los cambios que están ocurriendo en el papel de la contabilidad de costos dentro de 
+las organizaciones.
+/H17033 Hemos introducido los temas de divisas extranjeras y los contratos a plazo dentro del contexto 
+de las decisiones de subcontratación. 
+/H17033 Hemos incorporado ideas basadas en Seis Sigma a la discusión de la calidad. 
+/H17033 Hemos redactado de nuevo el capítulo sobre la estrategia y el tablero de control balanceado con 
+una presentación simplificada para conectar el desarrollo de la estrategia, los mapas de estrate-
+gias, el tablero de control balanceado y el análisis de la utilidad en operación.
+/H17033 Exponemos las tendencias actuales que van más allá de la preparación de los presupuestos y del 
+uso de los pronósticos móviles.
+/H17033 Desarrollamos el vínculo entre las formas tradicionales de la aplicación de los costos y el movi-
+miento naciente en Europa hacia la contabilización del consumo de los recursos. 
+/H17033 Nos concentramos de una manera más precisa en cómo las compañías están simplificando sus 
+sistemas de costeo con la presentación de los flujos de valor y de una contabilidad eficiente.
+Viñetas de apertura
+Cada capítulo empieza con una viñeta sobre la situación de una compañía real. Las viñetas hacen 
+que el lector participe en una situación de negocios, o dilema, que ilustra el cómo y el porqué los 
+conceptos del capítulo son relevantes en los negocios. Por ejemplo, el capítulo 1 describe la manera 
+en que Apple usa la información de la contabilidad de costos para tomar decisiones relacionadas 
+con la fijación del precio de las canciones más populares en iTunes. El capítulo 3 explica cómo el 
+grupo U2 pagó su nuevo y extenso escenario mediante la reducción de los precios de los boletos. El 
+capítulo 7 describe incluso la forma en la cual la 
+nba se vio obligada a reducir los costos después 
+de que más de la mitad de las franquicias de la liga declararon pérdidas. El capítulo 11 muestra que 
+JetBlue usa el Twitter y el correo electrónico para ayudar a sus clientes a tomar mejores decisiones 
+de precios. El capítulo 12 expone la manera en que Tata Motors diseñó un automóvil de consumo 
+masivo India, con un precio de tan solo $2,500. El capítulo 14 expone el caso de Best Buy y su 
+intento por mejorar sus utilidades mediante el análisis de sus clientes y de sus hábitos de compra. 
+El capítulo 18 describe cómo fue que Boeing incurrió en grandes pérdidas cuando llevó a cabo el 
+reprocesamiento de su muy anunciado avión Dreamliner.
+A02_HORN9174_14_SE_PRE.indd   xivA02_HORN9174_14_SE_PRE.indd   xiv 12/5/11   5:46 PM12/5/11   5:46 PM
+
+--- PAGE 17 ---
+PREFACIO /H17033 XV
+Secciones de conceptos en acción
+Estos recuadros se encuentran en todos los capítulos, y cubren aspectos de la contabilidad de costos 
+del mundo real en diferentes industrias como las carreras de automóviles, los contratos de defensa, 
+el entretenimiento, la manufactura y el comercio al menudeo. Algunos ejemplos nuevos incluyen
+/H17033 La manera en que Zipcar ayuda a reducir los costos del transporte de negocios, p. 33 
+/H17033 El costeo por órdenes de trabajo en el Cowboys Stadium, p. 108 
+/H17033 La “Espiral de la Muerte” y el final de los servicios telefónicos de líneas terrestres, p. 319 
+/H17033 Una disputa de fijación de precios de transferencia detiene temporalmente el flujo de Fiji 
+Water, p. 793 
+Presentación más dinámica 
+Continuamos tratando de simplificar y de hacer más dinámica la presentación de varios temas, para 
+que el estudiante logre proceder con la mayor facilidad posible al aprendizaje de los conceptos, las 
+herramientas y los marcos de referencia que se examinan en diferentes capítulos. Algunos ejemplos 
+de presentaciones más dinámicas se encuentran en
+/H17033 El capítulo 3 acerca de la exposición de la utilidad neta meta  
+/H17033 El capítulo 5 acerca de los aspectos fundamentales del costeo basado en actividades (abc ) 
+/H17033 El capítulo 8, que usa un solo ejemplo amplio para ilustrar el uso del análisis de variaciones en 
+los sistemas 
+abc
+/H17033 El capítulo 13, el cual ofrece una presentación mucho más sencilla del análisis estratégico de la 
+utilidad de operación
+/H17033 El capítulo 15, con un marco de referencia más sencillo y unificado para exponer los distintos 
+métodos de aplicación de costos
+/H17033 Los capítulos 17 y 18, donde el material acerca del costeo estándar ha sido transferido al apén-
+dice, lo cual permite una transición más uniforme a lo largo de las secciones del capítulo
+Cambios selectos en el contenido 
+de capítulo por capítulo 
+Agradecemos a los lectores su apoyo continuo a la obra Contabilidad de Costos. En cada nueva 
+edición nos esforzamos por actualizar este texto en forma total. Para facilitar la transición desde 
+la decimotercera edición, a continuación presentamos algunos puntos de importancia selectos, en 
+relación con los cambios en los capítulos con respecto a la decimocuarta edición.
+El capítulo 1 se redactó de nuevo para concentrar la atención en la estrategia, la toma de decisio-
+nes y el aprendizaje, haciendo énfasis en los aspectos administrativos que estimulan la contabilidad 
+administrativa moderna. Ahora enfatiza la toma de decisiones en vez de resaltar la resolución de pro-
+blemas, la evaluación del desempeño en vez del mantenimiento de registros, y el aprendizaje en vez de 
+la atención hacia la dirección.
+El capítulo 2 se desarrolló de nuevo para hacer hincapié en el sector de servicios. Por ejemplo, 
+en lugar de utilizar el contexto de una compañía de manufactura, el capítulo se basa en el ambiente 
+del desarrollo de programas de software de una compañía como Apple Inc. para exponer la admi-
+nistración de los costos. También desarrolla ideas relacionadas con el riesgo cuando discute los 
+costos fijos versus los costos variables.
+El capítulo 3 se escribió de nuevo para simplificar la presentación de la utilidad neta meta, 
+mediante la descripción de cómo dicha utilidad se puede convertir en una utilidad en opera-
+ción meta. Esto permite a los estudiantes usar las ecuaciones que ya se desarrollaron para la utilidad 
+en operación meta, cuando se discute dicha utilidad. Hemos eliminado la sección acerca de los genera-
+dores de costos múltiples, porque dicho tema está íntimamente relacionado con el ejemplo de produc-
+tos múltiples que se examina en este capítulo. Los aspectos administrativos y de toma de decisiones del 
+capítulo también fueron reforzados.
+El capítulo 4 se ha reorganizado para exponer primeramente el costeo normal y luego el costeo 
+real, ya que aquel es mucho más prevaleciente en la práctica. Como resultado de este cambio, las 
+ilustraciones que se incluyen en la parte inicial del capítulo se relacionan de una forma más estrecha 
+con las ilustraciones detalladas de los sistemas normales de costeo basado en órdenes de trabajo, en 
+la manufactura que se expone en un momento posterior en el capítulo. La presentación del costeo 
+real se ha conservado para ayudar a los estudiantes a entender los beneficios y los desafíos de los sis-
+temas reales de costeo. Para centrar la atención en el costeo por órdenes de trabajo, transferimos la 
+exposición de los centros y departamentos de responsabilidad al capítulo 6.
+A02_HORN9174_14_SE_PRE.indd   xvA02_HORN9174_14_SE_PRE.indd   xv 12/5/11   5:46 PM12/5/11   5:46 PM
+
+--- PAGE 18 ---
+XVI /H17033 PREFACIO
+El capítulo 5 se reorganizó para distinguir claramente las elecciones de diseño, los desafíos de 
+implementación y las aplicaciones administrativas de los sistemas abc . La presentación de las ideas 
+se simplificó y se agilizó para concentrarse en los temas fundamentales.
+El capítulo 6 incluye ahora ideas provenientes de investigaciones relevantes aplicadas sobre 
+la utilidad de los presupuestos y las circunstancias en las cuales agregan mayor valor, así como 
+los desafíos para su administración. Incorpora nuevos materiales sobre el movimiento denomi-
+nado “Más allá de los presupuestos” y, en particular, la tendencia hacia el uso de los pronósticos 
+móviles. 
+Los capítulos 7 y 8 presentan respectivamente una exposición dinámica acerca de las variacio-
+nes en los costos directos y en los costos indirectos. Las secciones separadas sobre el sistema 
+abc  y 
+el análisis de variaciones en los capítulos 7 y 8 se combinaron en un solo ejemplo integrado al final 
+del capítulo 8. Un nuevo apéndice del capítulo 7 trata ahora de una forma más detallada las varia-
+ciones de los ingresos usando el ejemplo actual de Webb Company. Se eliminó el uso de términos 
+potencialmente confusos como el análisis de dos variaciones y el análisis de una variación. 
+Hemos vuelto a redactar el capítulo 9 como un solo capítulo integrado con el mismo ejemplo 
+funcional, en vez de presentarlo como dos subpartes distintas sobre el costeo del inventario y el 
+análisis de la capacidad. El material acerca de las implicaciones de los reportes de impuestos y de los 
+reportes financieros de diversos conceptos de capacidad también se revisó totalmente.
+El capítulo 10 se modificó con la finalidad de ofrecer una progresión más lineal a través de las 
+ideas de la estimación del costo y la elección de los generadores de costos, y termina con el estudio 
+del análisis cuantitativo (análisis de regresión, en particular) para la toma de decisiones gerenciales.
+El capítulo 11 incluye ahora una mayor discusión de los aspectos globales como las considera-
+ciones cambiarias en las decisiones de subcontratación a nivel internacional. También hay un mayor 
+énfasis sobre la estrategia y la toma de decisiones.
+El capítulo 12 se ha reorganizado para delinear de una manera más aguda el costeo y la fijación 
+de precios a corto y a largo plazos, así como para integrar las diversas consideraciones aparte de los 
+costos que influyen en las decisiones de fijación de precios. Esta reorganización ha ayudado a volver 
+más ágil varias secciones del capítulo.
+El capítulo 13 se renovó de una manera sustancial. Los mapas de estrategias se presentan como 
+una forma de vincular los objetivos estratégicos y como un primer paso de utilidad para el desarro-
+llo de las medidas del tablero de control balanceado. La sección sobre el análisis estratégico de la 
+utilidad en operación quedó significativamente simplificada y concentra la atención tan solo en un 
+costo indirecto, en tanto que elimina la mayoría de los detalles técnicos. Finalmente, la sección de 
+los costos previamente acordados y discrecionales se redujo de manera considerable para concen-
+trar la atención únicamente en las ideas clave.
+El capítulo 14 expone ahora el uso de las “curvas de ballena” para representar el resultado del 
+análisis de la rentabilidad de los clientes. La última parte del capítulo se racionalizó para concentrarse 
+en el desglose de las variaciones del volumen en ventas en variaciones en cantidad y variaciones en 
+mezclas; también se simplificó el cálculo de las variaciones en la mezcla de ventas.
+El capítulo 15 se revisó por completo y usa un marco de referencia sencillo y unificado para 
+discutir diversos métodos de aplicación de costos (tasa única versus tasa doble, costos reales versus 
+costos presupuestados, etcétera).
+El capítulo 16 ofrece ahora una exposición más profunda del fundamento en que se basa la 
+aplicación de los costos conjuntos, así como de las razones por las cuales algunas empresas no apli-
+can los costos (junto con ejemplos del mundo real).
+Los capítulos 17 y 18 se reorganizaron, y el material sobre el costeo estándar se transfirió al 
+apéndice de ambos capítulos. Esta reorganización hace más fácil la navegación a través de los capí-
+tulos y que sean totalmente consistentes (ya que todas las secciones que se presentan en el cuerpo del 
+capítulo usan ahora un costeo real). El material sobre los puntos de inspección múltiples proveniente 
+del apéndice del capítulo 18 se incluye en el cuerpo del capítulo, pero usando ahora una variante del 
+ejemplo de Anzio Corp. 
+El capítulo 19 (disponible en el sitio Web del libro) presenta la idea de la calidad de Seis Sigma. 
+También integra la calidad del diseño, y las medidas financieras y no financieras de la calidad. La 
+exposición de las colas, las demoras y los costos del tiempo quedó significativamente simplificada.
+La exposición del capítulo 20 (disponible en el sitio Web del libro) acerca de la cantidad eco-
+nómica a ordenar se revisó y se desarrollaron más las ideas acerca de una contabilidad eficiente. La 
+sección que trata del costeo de retro-impulsión se desarrolló nuevamente.
+Se revisó el capítulo 21 (disponible en el sitio Web del libro) para incorporar el método del 
+periodo de recuperación con los procesos de descuento, y ahora también incluye evidencias de 
+encuestas sobre el uso de varios métodos de elaboración del presupuesto de capital. La exposición 
+de la congruencia con las metas y la medición del desempeño se simplificó y se combinó, haciendo 
+que la última mitad del capítulo sea más fácil de seguir.
+A02_HORN9174_14_SE_PRE.indd   xviA02_HORN9174_14_SE_PRE.indd   xvi 12/5/11   5:46 PM12/5/11   5:46 PM

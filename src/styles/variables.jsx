@@ -44,17 +44,22 @@ import { AiOutlineShoppingCart } from "react-icons/ai"
 ///import { MdFactory } from "react-icons/md";
 import { FiScissors } from "react-icons/fi";
 import { FaBoxOpen } from "react-icons/fa";
-import { GiRolledCloth } from "react-icons/gi";
+import { GiRolledCloth, GiTrousers } from "react-icons/gi";
+import { FaIndustry, FaUsers } from "react-icons/fa";
 
 
 
 export const v = {
   iconoventas: AiOutlineShoppingCart,
   iconoproduccion:FiScissors,
-  iconoAlmancenPrendas:FaBoxOpen,
+  iconoAlmancenPrendas:GiTrousers,
   iconoContabilidad:AiOutlineCalculator,
+  iconoRecursosHumanos:FaUsers,
   iconoMateriaPrima: GiRolledCloth,
-
+  iconotalleres: FaIndustry,
+  iconoAlmacen: FaBoxOpen,
+  iconotiendas: AiOutlineShoppingCart,
+  
 
   ///////////////////////
 
